@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./public/icons/auto.svg" alt="CloudflareSub Logo" width="86" />
+  <img src="./public/icons/auto.svg" alt="CloudflareSub Logo" width="20" />
   CloudflareSub
 </h1>
 
